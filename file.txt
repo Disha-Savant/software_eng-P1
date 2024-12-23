@@ -1,7 +1,6 @@
 hello world
 
-<<<<<<< HEAD
 hello sanjeel
-=======
+
 this is pavan sannaik reporting
->>>>>>> upstream/main
+
